@@ -1,0 +1,42 @@
+
+第5章 初始化与清理
+
+5.1 用构造器确保初始化				SimpleConstructor	SimpleConstructor2
+5.2 方法重载					Overloading
+	5.2.1 区分重载方法			OverloadingOrder
+	5.2.2 涉及基本类型的重载		PrimitiveOverloading	Demotion
+5.3 默认构造器					DefaultConstructor	NoSynthesis
+5.4 this关键字					BananaPeel	Apricot	Leaf	PassingThis
+	5.4.1 在构造器中调用构造器		Flower
+	5.4.2 static的含义			
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
