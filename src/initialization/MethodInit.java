@@ -8,4 +8,4 @@ public class MethodInit {
     int f() {
         return 11;
     }
-} /// :~
+} 

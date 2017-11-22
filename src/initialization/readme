@@ -20,7 +20,7 @@
 	5.7.4 非静态实例初始化			Mugs
 5.8 数组初始化					ArraysOfPrimitives ArrayNew ArrayClassObj ArrayInit DynamicArray
 	5.8.1 可变参数列表			VarArgs	NewVarArgs OptionalTrailingArguments VarargType AutoboxingVarargs OverloadingVarargs OverloadingVarargs2 OverloadingVarargs3
-
+	5.9 枚举类型				Spiciness SimpleEnumUse EnumOrder Burrito
 
 
 
