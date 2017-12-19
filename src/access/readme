@@ -1,0 +1,20 @@
+
+第6章 访问权限控制
+
+6.1 包：库单元							FullQualification SingleImport
+	6.1.1 代码组织						MyClass QualifiedMyClass QualifiedMyClass ImportedMyClass
+	6.1.2 创建独一无二的包名				Vector List LibTest MyPackagedClass
+	6.1.3 定制工具库						Print PrintTest Range
+	6.1.4 用import改变行为				Debug Debug
+
+6.2 Java访问权限修饰词	
+	6.2.1 包访问权限
+	6.2.2 public: 接口访问权限			dessert/Cookie Dinner  Cake  Pie
+	6.2.3 private: 你无法访问			IceCream
+	6.2.4 protected: 继承访问权限		ChocolateChip  dessert/Cookie  ChocolateChip2 cookie2/Cookie
+
+6.3 接口和实现							OrganizedByAccess
+6.4 类的访问权限							Lunch	
+	
+	
+	
