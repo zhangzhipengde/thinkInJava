@@ -1,0 +1,14 @@
+
+
+第7章 复用类
+
+7.1 组合语法				SprinklerSystem Bath  (练习)1. Airplane
+	
+7.2 继承语法				Detergent  (练习)2. 答案和Detergent类基本一样
+	7.2.1 初始化基类 			Cartoon	Chess		(练习)3.Cartoon2 4.E 5.C 6.Chess 7.C7 8.Ex8 9.Stem 10.Stem10
+	
+7.3 代理					SpaceShipControls  SpaceShip SpaceShipDelegation (练习)11.DetergentDelegation
+
+7.4 结合使用组合和继承			PlaceSetting	
+	7.4.1 确保正确清理
+		
