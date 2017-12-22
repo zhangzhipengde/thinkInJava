@@ -1,4 +1,6 @@
+package reusing.practice;
 // reusing/Device.java
+
 // TIJ4. Chapter Reusing, Exercise 15, page 260
 /* Create a class inside a package. Your class should contain a protected
 * method. Outside of the package, try to call the protected method and eplain
@@ -18,25 +20,28 @@
 * }
 */
 
-import reusing.ex15.*;
+import reusing.practice.ex15.*;
 
-class DeviceFail {	
-	public static void main(String[] s) {
-		BasicDevice fail = new BasicDevice();
-		fail.showS();
-		// fail.changeS("good-bye"); // cannot access protected method 	
-	}
+class DeviceFail {
+
+    public static void main(String[] s) {
+        BasicDevice fail = new BasicDevice();
+        fail.showS();
+        // fail.changeS("good-bye"); // cannot access protected method
+    }
 }
 
 public class Device extends BasicDevice {
-	void changeBasic(String t) {
-		super.changeS(t); // calls protected method
-	}	
-	public static void main(String[] args) {
-		Device d = new Device();
-		d.showS();
-		d.changeBasic("Changed"); // derived class can access protected
-		d.showS();
-		DeviceFail.main(args);
-	}
+
+    void changeBasic(String t) {
+        super.changeS(t); // calls protected method
+    }
+
+    public static void main(String[] args) {
+        Device d = new Device();
+        d.showS();
+        d.changeBasic("Changed"); // derived class can access protected
+        d.showS();
+        DeviceFail.main(args);
+    }
 }

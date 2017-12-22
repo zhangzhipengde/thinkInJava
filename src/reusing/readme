@@ -10,5 +10,11 @@
 7.3 代理					SpaceShipControls  SpaceShip SpaceShipDelegation (练习)11.DetergentDelegation
 
 7.4 结合使用组合和继承			PlaceSetting	
-	7.4.1 确保正确清理
-		
+	7.4.1 确保正确清理		CADSystem  (练习)12.Stem2
+	7.4.2 名称屏蔽			Hide  Lisa (练习)13.Overload
+	
+7.5 在组合与继承之间选择			Car (练习)14.Car
+
+7.6 protected关键字		Orc (练习)15.Device
+7.7 向上转型				Wind
+	7.7.2 再论组合与继承		(练习)16.Frog 17.Frog17
