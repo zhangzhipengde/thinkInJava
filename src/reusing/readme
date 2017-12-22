@@ -16,5 +16,8 @@
 7.5 在组合与继承之间选择			Car (练习)14.Car
 
 7.6 protected关键字		Orc (练习)15.Device
+
 7.7 向上转型				Wind
 	7.7.2 再论组合与继承		(练习)16.Frog 17.Frog17
+	
+7.8 final关键字
